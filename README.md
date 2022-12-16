@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!&fontSize=70&animation=fadeIn&fontAlignY=50&desc=I'm%20Jefferson%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!&fontSize=70&animation=fadeIn&fontAlignY=27&desc=I'm%20Jefferson%20&descAlignY=51&descAlign=62)
 <h1 align="center">
   Tech Stack that i use
 </h1>
