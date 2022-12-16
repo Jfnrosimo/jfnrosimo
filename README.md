@@ -24,9 +24,9 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <br><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Mongodb&color=%233178C6&style=for-the-badge&logo=Mongodb&logoColor=47A248" alt="Mongodb"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Mongodb&color=%#47A248&style=for-the-badge&logo=Mongodb&logoColor=#000000" alt="Mongodb"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=EXPRESS.JS&color=%233178C6&style=for-the-badge&logo=express&logoColor=#000000" alt="EXPRESS.JS"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=#61DAFB" alt="REACT.JS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%#61DAFB&style=for-the-badge&logo=react&logoColor=#000000" alt="REACT.JS"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=%233178C6&style=for-the-badge&logo=node.js&logoColor=#339933" alt="NODE.JS"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=%23F05032&style=for-the-badge&logo=bootstrap&logoColor=#7952B3" alt="Bootstrap"></a>
