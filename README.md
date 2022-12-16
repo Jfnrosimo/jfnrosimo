@@ -15,7 +15,10 @@
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20There!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Jefferson%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Jefferson%20&descAlignY=51&descAlign=62)
+<h1 align="center">
+  Tech Stack that i use
+</h1>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
@@ -25,7 +28,9 @@
   </a>
 </p>
 
-<a href="https://gitstats.me/JoykishanSharma">
-    <img width="500" height="auto" alt="Jefferson's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=jfnrosimo&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/jfnrosimo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfnrosimo&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfnrosimo&theme=noctis_minimus&layout=compact" />
 </a>
+
