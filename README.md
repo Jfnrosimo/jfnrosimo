@@ -15,8 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20There!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Im%20Jefferson%20&descAlignY=51&descAlign=62)
-<p align='center'> Hi There! </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20There!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Jefferson%20&descAlignY=51&descAlign=62)
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
