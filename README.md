@@ -32,7 +32,7 @@
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=%237952B3&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="Bootstrap"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=tailwindcss&color=%2306B6D4&style=for-the-badge&logo=tailwindcss&logoColor=whitesmoke" alt="Tailwind CSS"></a>
     <br><br>
-   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=next.js&color=%23F05032&style=for-the-badge&logo=next.js&logoColor=whitesmoke" alt="NEXT.JS"></a>
+   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=next.js&color=%23000000&style=for-the-badge&logo=next.js&logoColor=whitesmoke" alt="NEXT.JS"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jquery&color=%23F05032&style=for-the-badge&logo=jquery&logoColor=whitesmoke" alt="jQuery"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mysql&color=%23F05032&style=for-the-badge&logo=mysql&logoColor=whitesmoke" alt="MySQL"></a>
     <a href="https://github.com/Jfnrosimo/jfnrosimo)"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
