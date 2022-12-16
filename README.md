@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-# Hi There!
 
-## Im Jefferson
+<a href="https://gitstats.me/JoykishanSharma">
+    <img width="500" height="auto" alt="Jefferson's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=jfnrosimo&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+</a>
