@@ -29,7 +29,7 @@
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
-   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITLAB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITLAB"></a>
+   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITLAB&color=%23181717&style=for-the-badge&logo=gitlab&logoColor=whitesmoke" alt="GITLAB"></a>
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
