@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20There!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Im%20Jefferson%20&descAlignY=51&descAlign=62)
 <p align='center'> Hi There! </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
