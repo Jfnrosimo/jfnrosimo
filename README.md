@@ -32,8 +32,9 @@
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=%23F05032&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="Bootstrap"></a>
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=tailwindcss&color=%23F05032&style=for-the-badge&logo=tailwindcss&logoColor=whitesmoke" alt="Tailwind CSS"></a>
     <br><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
-   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITLAB&color=%23181717&style=for-the-badge&logo=gitlab&logoColor=whitesmoke" alt="GITLAB"></a>
+   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=next.js&color=%23F05032&style=for-the-badge&logo=next.js&logoColor=whitesmoke" alt="NEXT.JS"></a>
+    <a href="https://github.com/Jfnrosimo/jfnrosimo)"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
+   <a href="https://gitlab.com/jrosimo)"><img src="https://img.shields.io/static/v1?label=&message=GITLAB&color=%23181717&style=for-the-badge&logo=gitlab&logoColor=whitesmoke" alt="GITLAB"></a>
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
