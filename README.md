@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=jfnrosimo)
 
 <!--
 **Jfnrosimo/jfnrosimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,7 @@
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+
 <a href="https://github.com/jfnrosimo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfnrosimo&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfnrosimo&theme=noctis_minimus&layout=compact" />
