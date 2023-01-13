@@ -42,7 +42,7 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <a href="https://github.com/jfnrosimo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfnrosimo&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfnrosimo&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jfnrosimo&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jfnrosimo&theme=noctis_minimus&layout=compact" />
 </a>
 
